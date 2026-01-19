@@ -1,7 +1,7 @@
 🥦 Food Macros Search Engine (Cloud-Deployed API)
 A high-performance, production-ready search API that provides instant macronutrient data using custom-built algorithmic search structures. Originally a CLI tool, this system has been re-engineered as a FastAPI service deployed on AWS EC2 with a focus on high availability, security, and scalability.
 
-🌍 Live Demo: https://usda-food-search.com (Swagger UI)
+🌍 Live Demo: https://www.usda-food-search.com (Swagger UI)
 
 🚀 Key Evolutions
 From CLI to API: Migrated a local Python script into a robust FastAPI backend.
